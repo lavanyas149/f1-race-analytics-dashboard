@@ -1,4 +1,4 @@
-# F1 Race Analytics & Strategy Dashboard
+# F1 Race Analytics & Strategy Dashboard 
  
 A beginner friendly, modular Python command line dashboard designed to log Formula 1 race results, calculate championship standings, and simulate pit-stop strategies.
 
