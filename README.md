@@ -3,10 +3,9 @@
 A beginner friendly, modular Python command line dashboard designed to log Formula 1 race results, calculate championship standings, and simulate pit-stop strategies.
 
 #Overview
-This system satisfies the Build Your Own Project evaluation criteria by implementing three functional modules:
-1. Module 1 (Race Ingestion): Manage Grand Prix events, default driver rosters, and finishing orders.
-2. Module 2 (Standings Engine): Compute driver and constructor standings using official FIA scoring.
-3. Module 3 (Strategy Simulator): Calculate stint lengths and pit stop windows across Soft, Medium, and Hard compounds.
+1. Race Ingestion: Manage Grand Prix events, default driver rosters, and finishing orders.
+2. Standings Engine: Compute driver and constructor standings using official FIA scoring.
+3. Strategy Simulator: Calculate stint lengths and pit stop windows across Soft, Medium, and Hard compounds.
 
 #Technologies Used
 - Programming Language: Python 3.x
